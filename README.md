@@ -16,3 +16,9 @@ https://github.com/datawhalechina/undingable-optimization
 
 自然语言课程Natural Language Processing course
 https://github.com/GithubHfx/nlp_course
+
+搜集、整理、发布 中文 自然语言处理 语料/数据集
+https://github.com/GithubHfx/ChineseNlpCorpus
+
+transformer Pytorch
+https://github.com/GithubHfx/Transformer-pytorch
