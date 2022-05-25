@@ -26,3 +26,6 @@ https://github.com/GithubHfx/Transformer-pytorch
 
 传智播客: Transformer架构解析
 http://121.199.45.168:8001/2/
+
+词嵌入的理解
+https://datawhalechina.github.io/leeml-notes/#/chapter25/chapter25?id=_1-of-n-encoding
