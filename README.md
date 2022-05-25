@@ -13,3 +13,6 @@ https://github.com/datawhalechina/easy-rl
 
 运筹学的基本方法
 https://github.com/datawhalechina/undingable-optimization
+
+自然语言课程Natural Language Processing course
+https://github.com/GithubHfx/nlp_course
