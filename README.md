@@ -22,3 +22,7 @@ https://github.com/GithubHfx/ChineseNlpCorpus
 
 transformer Pytorch
 https://github.com/GithubHfx/Transformer-pytorch
+
+
+传智播客: Transformer架构解析
+http://121.199.45.168:8001/2/
